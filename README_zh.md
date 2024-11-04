@@ -1,25 +1,25 @@
-# Hi there 👋
-[中文版本](README_zh.md)
+# 你好 👋
+[English Version](README.md)
 
-I'm Jyuhou Wong, a passionate Front-End Developer currently pursuing a Master's degree in Computer Science at the University of Birmingham Dubai.
+我是 Jyuhou Wong，一名热爱技术的前端开发者，目前在伯明翰杜拜大学攻读计算机科学硕士学位。
 
-- 🔭 I am currently developing and optimizing various front-end projects.
-- 🌱 I am learning and exploring the latest front-end technologies and frameworks.
-- 👯 I hope to collaborate with other developers on innovative projects.
-- 📫 How to reach me: [jyuhou.wong@gmail.com](mailto:jyuhou.wong@gmail.com)
+- 🔭 我目前正在开发和优化各种前端项目。
+- 🌱 我正在学习和探索最新的前端技术和框架。
+- 👯 我希望能与其他开发者合作，进行创新项目。
+- 📫 如何联系我：[jyuhou.wong@gmail.com](mailto:jyuhou.wong@gmail.com)
 
-### 🛠️ Skills
+### 🛠️ 技能
 
-- **Programming Languages**: HTML, CSS, JavaScript, PHP, Python, C, C++, C#
-- **Frameworks & Libraries**: React, Vue.js, Node.js, Express, Bootstrap, Ant Design, ElementUI
-- **Tools & Technologies**: MySQL, Sequelize, Webpack, Git, Docker
-- **Other Software**: Adobe Suite (Photoshop, Premiere), Unity
+- **编程语言**: HTML, CSS, JavaScript, PHP, Python, C, C++, C#
+- **框架与库**: React, Vue.js, Node.js, Express, Bootstrap, Ant Design, ElementUI
+- **工具与技术**: MySQL, Sequelize, Webpack, Git, Docker
+- **其他软件**: Adobe Suite (Photoshop, Premiere), Unity
 
-### 🌟 Self-Evaluation
+### 🌟 自我评价
 
-I am a high-achieving, responsible, and innovative developer, skilled in teamwork and independent problem-solving, with excellent communication and learning abilities.
+我是一名成绩优异、认真负责、积极创新的开发者，善于团队协作和独立解决问题，具备出色的沟通和学习能力。
 
-### 🔗 Personal Links
+### 🔗 个人链接
 
 <div align="center">
     <a href="https://blog.hyh.ltd" style="text-decoration: none;">
@@ -35,7 +35,7 @@ I am a high-achieving, responsible, and innovative developer, skilled in teamwor
 
 ---
 
-## 📊 GitHub Stats ⚡
+## 📊 GitHub 统计 ⚡
 
 <div align="center">
 
@@ -56,3 +56,5 @@ I am a high-achieving, responsible, and innovative developer, skilled in teamwor
 	<img alt="Shows Jyuhou's GitHub Top Langs." src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyuhou-wong&theme=default&layout=compact&hide_border=true&hide=jupyter%20notebook">
 	</a>
 </div>
+
+---
