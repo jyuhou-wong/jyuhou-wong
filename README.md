@@ -1,7 +1,7 @@
 # Hi there 👋
 [中文版本](README_zh.md)
 
-I'm Jyuhou Wong, a passionate Front-End Developer currently pursuing a Master's degree in Computer Science at the University of Birmingham Dubai.
+I'm Kevin Wong, a passionate Front-End Developer currently pursuing a Master's degree in Computer Science at the University of Birmingham Dubai.
 
 - 🔭 I am currently developing and optimizing various front-end projects.
 - 🌱 I am learning and exploring the latest front-end technologies and frameworks.
